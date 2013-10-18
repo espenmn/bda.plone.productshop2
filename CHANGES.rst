@@ -2,6 +2,19 @@
 Changelog
 =========
 
+0.3.Xdev
+------------
+
+- Add control panel entries with vocabulary from avalable fields
+  [espenmn]
+
+- Add generic view
+  [espenmn]
+  
+- registered the view for IBuyable
+  [espenmn]
+
+
 0.3dev
 ------
 
